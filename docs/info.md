@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-turn on the swhitches 
+Using log gates we can observe the different changes in an LED
 
 ## How to test
 
-encendiendo lo interruptores y conectado las compuertas 
+Turning on the interruptors we can see the different behaviors of the LED 
 
 ## External hardware
 

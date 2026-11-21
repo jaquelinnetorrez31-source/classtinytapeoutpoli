@@ -13,7 +13,7 @@ turn on the swhitches
 
 ## How to test
 
-Explain how to use your project
+encendiendo lo interruptores y conectado las compuertas 
 
 ## External hardware
 
